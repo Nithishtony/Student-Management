@@ -1,5 +1,4 @@
-# Student Management System
-Nithish Tony na Flower illa da Fire uh💥💥
+#Nithish Tony na Flower illa da Fire uh💥💥
 
 def show_menu():
     print("\nStudent Management System")
